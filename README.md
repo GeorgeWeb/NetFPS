@@ -1,1 +1,1 @@
-# NetFPS
+# NetFPS - Only Scripts!
