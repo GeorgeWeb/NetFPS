@@ -1,1 +1,1 @@
-# NetFPS - Only Scripts!
+# NetFPS - C# Scripts (only)!
